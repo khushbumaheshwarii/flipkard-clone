@@ -1,0 +1,37 @@
+ .flex-all-center{
+    display: flex;
+justify-content: center;
+align-items: center;
+} 
+.btn
+{
+    background-color: var(--main-bg-color);
+padding: 3px 7px;
+border: 2px solid white;
+border-radius: 6px;
+color:white;
+cursor: pointer;
+font-weight: 900;
+}
+ .slider img{
+    width:877px;
+    height:303px;
+    background-color:var(--main-bg-color);
+    margin: 12px 0px 0px 133px;
+} 
+.card-item img{
+    width: 89px;
+} 
+.my-1{
+    margin:22px 0;
+}
+.my-2{
+    margin:5px 0;
+}
+.my-3{
+    color: green;
+}
+
+/* .text-center{
+    text-align: center;
+} */
